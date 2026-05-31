@@ -78,10 +78,16 @@ Core product areas:
 - Reported Top 10 ranking in Google Play Music and Top 100 ranking in App Store during its early launch period
 - Google Play listing showed 10K+ installs and positioned Smusix around free music discovery, weekly trend playlists, offline listening, and artist support
 
+## Presentation Videos
+
+- [Spanish presentation: Smusix, Desliza y Descubre Musica](https://youtu.be/DWOtsSV2IXY?si=7-LkfMndioc40wn9)
+- [English presentation: Smusix, Swipe & Discover Music](https://youtu.be/F7sIa4aciTc?si=y076RbCxUidXqJKC)
+
 Press references:
 
 - [20 Minutos: Existe un 'Spotify español'](https://www.20minutos.es/tecnologia/fabricantes/existe-un-spotify-espanol-es-gratis-te-permite-descubrir-nueva-musica-artistas-emergentes_6242805_0.html)
 - [Mallorca Hora: Smusix, la app española que revoluciona la música emergente](https://mallorcahora.com/noticias/tecnologia-y-videojuegos/2025/09/13/smusix-la-app-espanola-que-revoluciona-la-musica-emergente/)
+- [LinkedIn post: Top 10 Google Play Store milestone](https://www.linkedin.com/posts/david-trotonda-a5b9892bb_qu%C3%A9-suerte-tienes-la-gente-ve-solo-el-activity-7349784783251562496-fbAT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEzaZqcBstS6OZmNo504h4YFUmR-HNxIBpo)
 - [Smusix website](https://smusix.com/es/)
 
 ## Engineering Focus
