@@ -1,0 +1,546 @@
+/*
+  Localizable.strings
+  Smusix
+
+    
+*/
+"App Language" = "App-Sprache";
+"Upload" = "Hochladen";
+"Speed" = "Geschwindigkeit";
+"Live Users" = "Live-Benutzer";
+"Bandook" = "Bandook";
+"Discover" = "Entdecken";
+"Allow Comments" = "Kommentare erlauben";
+"Spanish" = "Spanisch";
+"0" = "0";
+"PK +92" = "PK +92";
+"No favorite video." = "Kein Lieblingsvideo.";
+"Phone Number" = "Telefonnummer";
+"Desc" = "Beschreibung";
+"Dino test" = "Dino-Test";
+"0/20" = "0/20";
+"English" = "Englisch";
+"Sounds" = "Sounds";
+"You have no followers yet." = "Du hast noch keine Follower.";
+"Spaces" = "Leerzeichen";
+"Following" = "Folgende";
+"Search" = "Suchen";
+"Title" = "Titel";
+"Tests" = "Tests";
+"Who can comment on your videos" = "Wer kann auf Ihre Videos kommentieren";
+"To use Pitch, you must\nmandatory accept the permissions below." = "Um Pitch zu verwenden, müssen Sie\nunbedingt die unten aufgeführten Berechtigungen akzeptieren.";
+"Seen at 03:03 PM" = "Gesehen um 15:03 Uhr";
+"Send Code" = "Code senden";
+"Tag" = "Markierung";
+"You can't view others' content" = "Sie können den Inhalt anderer nicht anzeigen";
+"Notifications" = "Benachrichtigungen";
+"Select country/region" = "Land/Region auswählen";
+"Beautify" = "Verschönern";
+"You have no private videos" = "Du hast keine privaten Videos";
+"Influencers' private accounts are excluded from the list. Your content remains visible only to your friends. Other accounts cannot follow you." = "Die privaten Konten von Influencern sind von der Liste ausgeschlossen. Ihr Inhalt bleibt nur für Ihre Freunde sichtbar. Andere Konten können Ihnen nicht folgen.";
+
+"0 Followers 0 Videos" = "0 Follower 0 Videos";
+"Follow" = "Folgen";
+"Edit Profile" = "Profil bearbeiten";
+"Describe your post" = "Beschreiben Sie Ihren Beitrag";
+"Tap to see more content" = "Tippen Sie hier, um mehr Inhalte zu sehen";
+"Email" = "E-Mail";
+"Your private videos" = "Ihre privaten Videos";
+"jhonda" = "jhonda";
+"You've been blocked" = "Sie wurden blockiert";
+"Facial Reference Points" = "Gesichtsreferenzpunkte";
+"Flip" = "Umdrehen";
+"Choose an option, if you want anyone to be able to duet with your videos" = "Wählen Sie eine Option, wenn Sie möchten, dass jeder mit Ihren Videos ein Duett machen kann";
+"100 Coins" = "100 Münzen";
+"Public source preview" = "Public source preview";
+"Sss" = "Sss";
+"Coin Name" = "Münzname";
+"Happening Now" = "Aktuell";
+"Like" = "Gefällt mir";
+"When you register, you can confirm that you accept our Terms of Use and Privacy Policy" = "Bei der Registrierung können Sie bestätigen, dass Sie unsere Nutzungsbedingungen und Datenschutzrichtlinien akzeptieren";
+"See all" = "Alle anzeigen";
+"Who can send you direct messages" = "Wer kann Ihnen Direktnachrichten senden";
+"4M" = "4M";
+"2M" = "2M";
+"1M" = "1M";
+"Edit Profile" = "Profil bearbeiten";
+"App permissions consent" = "Zustimmung zu App-Berechtigungen";
+"Delete account" = "Konto löschen";
+"00:01" = "00:01";
+"Send code" = "Code senden";
+"Phone number" = "Telefonnummer";
+"Who can view this video" = "Wer kann dieses Video sehen";
+"NONE" = "KEINE";
+"Viewed at 03:03 PM" = "Angesehen um 15:03 Uhr";
+"Share" = "Teilen";
+"Account management" = "Kontoverwaltung";
+"My wallet" = "Meine Brieftasche";
+"Settings" = "Einstellungen";
+"This message has been deleted by" = "Diese Nachricht wurde von gelöscht";
+"OFF" = "AUS";
+"BTS Band" = "BTS-Band";
+"Send" = "Senden";
+"Hello" = "Hallo";
+"Password" = "Passwort";
+"Favorites" = "Favoriten";
+"To use Pitch, allow access to camera, microphone and photos." = "Um Pitch zu verwenden, erlauben Sie den Zugriff auf Kamera, Mikrofon und Fotos.";
+"Test" = "Test";
+"2x" = "2x";
+"v0.1" = "v0.1";
+"Forgot your password?" = "Passwort vergessen?";
+"Skip" = "Überspringen";
+"Post" = "Beitrag";
+"Flash" = "Blitz";
+"ALL" = "ALLE";
+"00:33" = "00:33";
+"nmnnm" = "nmnnm";
+"Get Ticket" = "Ticket erhalten";
+"Send" = "Senden";
+"Tag" = "Markieren";
+"Viewed at 03:03 PM" = "Angesehen um 15:03 Uhr";
+"Tag" = "Markieren";
+"Allow your videos to be downloaded" = "Erlauben Sie das Herunterladen Ihrer Videos";
+"Choose an option if you want anyone to be able to download your videos" = "Wählen Sie eine Option, wenn Sie möchten, dass jeder Ihre Videos herunterladen kann";
+"App access restriction" = "App-Zugriffsbeschränkung";
+"Log in" = "Einloggen";
+"@username" = "@Benutzername";
+"Private account" = "Privatkonto";
+"Choose an option if you want anyone to be able to see your likes on a video" = "Wählen Sie eine Option, wenn Sie möchten, dass jeder Ihre Likes auf einem Video sehen kann";
+"English" = "Englisch";
+"Allow duet" = "Duet zulassen";
+"Go live" = "Live gehen";
+"Photo" = "Foto";
+"tss" = "tss";
+"Add a comment" = "Kommentar hinzufügen";
+"Tag" = "Markieren";
+"15s" = "15s";
+"00:01" = "00:01";
+
+"Withdraw money" = "Geld abheben";
+"LabeljfhjasfdjhajfhshajfshhfhkLabeljfhjasfdjhajfhshajfshhfhkLabeljfhjasfdjhajfhshajfshhfhkLabeljfhjasfdjhajfhshajfshhfhkLabeljfhjasfdjhajfhshajfshhfhk" = "LabeljfhjasfdjhajfhshajfshhfhkLabeljfhjasfdjhajfhshajfshhfhkLabeljfhjasfdjhajfhshajfshhfhkLabeljfhjasfdjhajfhshajfshhfhkLabeljfhjasfdjhajfhshajfshhfhk";
+"Search" = "Suchen";
+"Title" = "Titel";
+"Username" = "Benutzername";
+"My Room" = "Mein Zimmer";
+"No users with this keyword." = "Keine Benutzer mit diesem Stichwort.";
+"Followers" = "Follower";
+"h" = "h";
+"Select Download Option" = "Download-Option auswählen";
+"Following" = "Folge ich";
+"Search users" = "Benutzer suchen";
+"Anyone on TikTok" = "Jeder auf TikTok";
+"Original sound -" = "Originalton -";
+"Cancel" = "Abbrechen";
+"sss" = "sss";
+"Name" = "Name";
+"00:30" = "00:30";
+"Tag" = "Tag";
+"Like" = "Gefällt mir";
+"3m" = "3m";
+"Select Sound" = "Ton auswählen";
+"Username1234" = "Benutzername1234";
+"English" = "Englisch";
+"pop" = "pop";
+"0" = "0";
+"Pinned" = "Angeheftet";
+"0" = "0";
+"Just Chill" = "Einfach chillen";
+"Dinosaur Test" = "Dinosaurier-Test";
+"Follow kim22 to set up LIVE notifications" = "Folge kim22, um LIVE-Benachrichtigungen einzurichten";
+"Public" = "Öffentlich";
+"Followers" = "Follower";
+"0" = "0";
+"Send gift to @areff" = "Geschenk an @areff senden";
+"Select" = "Auswählen";
+"Tag" = "Tag";
+"Coin balance" = "Münzguthaben";
+"Camera" = "Kamera";
+"Confirm" = "Bestätigen";
+"Spaces on the right side" = "Leerzeichen auf der rechten Seite";
+
+"Pannu" = "Pannu";
+"Log in" = "Anmelden";
+"What music genre is your video?" = "Welches Musikgenre hat Ihr Video?";
+"Username" = "Benutzername";
+"None" = "Keiner";
+"1x" = "1x";
+"0" = "0";
+"Save" = "Speichern";
+"BUY COINS" = "MÜNZEN KAUFEN";
+"00:30" = "00:30";
+"You have no notifications yet." = "Sie haben noch keine Benachrichtigungen.";
+"Effects" = "Effekte";
+"Users" = "Benutzer";
+"Next" = "Weiter";
+"Spanish" = "Spanisch";
+"FIND FRIENDS" = "FREUNDE FINDEN";
+"Repeat" = "Wiederholen";
+"6" = "6";
+"3x" = "3x";
+"username1234" = "benutzername1234";
+"BTS Band" = "BTS Band";
+"Title" = "Titel";
+"Hello" = "Hallo";
+"Password" = "Passwort";
+"English" = "Englisch";
+"Favorites" = "Favoriten";
+"To use Pitch, allow access to camera, microphone and photos." = "Um Pitch zu verwenden, erlauben Sie den Zugriff auf Kamera, Mikrofon und Fotos.";
+"Test" = "Test";
+"OFF" = "AUS";
+"2x" = "2x";
+"v0.1" = "v0.1";
+"Forgot your password?" = "Passwort vergessen?";
+"Skip" = "Überspringen";
+"Username" = "Benutzername";
+"Hello" = "Hallo";
+"Username" = "Benutzername";
+"Post" = "Posten";
+"Following" = "Folge ich";
+"Flash" = "Blitz";
+"ALL" = "ALLE";
+"00:33" = "00:33";
+"nmnnm" = "nmnnm";
+"Private account" = "Privatkonto";
+"Get Ticket" = "Ticket erhalten";
+"jhonda" = "jhonda ";
+"BTS Band" = "BTS Band";
+"Select" = "Auswählen";
+"Suggested accounts" = "Vorgeschlagene Konten";
+"No hashtags with this keyword." = "Keine Hashtags mit diesem Stichwort.";
+"Choose an option if you want anyone to comment on your videos" = "Wählen Sie eine Option aus, wenn Sie möchten, dass jemand Kommentare zu Ihren Videos abgibt";
+"Hello" = "Hallo";
+"00:00" = "00:00";
+"ALL" = "ALLE";
+"Tag" = "Tag";
+
+"No videos with this keyword." = "Keine Videos mit diesem Schlüsselwort.";
+"Spanish" = "Spanisch";
+"Save to device" = "Auf Gerät speichern";
+"App Information" = "App-Informationen";
+"Share your daily routine" = "Teilen Sie Ihre tägliche Routine";
+"On" = "An";
+"Privacy" = "Datenschutz";
+"Security" = "Sicherheit";
+"By signing up, you can confirm that you agree to our Terms of Use and Privacy Policy" = "Durch die Anmeldung können Sie bestätigen, dass Sie unseren Nutzungsbedingungen und Datenschutzbestimmungen zustimmen";
+"0" = "0";
+"wasiqtayyab" = "wasiqtayyab";
+"Account Privacy" = "Kontosicherheit";
+"@username" = "@Benutzername";
+"Just Chill" = "Einfach chillen";
+"Confirm" = "Bestätigen";
+"6" = "6";
+"No sounds with this keyword." = "Keine Klänge mit diesem Schlüsselwort.";
+"krischristopher" = "krischristopher";
+"preview_user" = "preview_user";
+"Menu" = "Menü";
+"Storage space" = "Speicherplatz";
+"Speed" = "Geschwindigkeit";
+"desc" = "Beschreibung";
+"Next" = "Weiter";
+"Leave a comment..." = "Kommentar hinterlassen...";
+"0" = "0";
+"Follow" = "Folgen";
+"Custom live notifications are based on how often you watch this presenter's live videos and other data. You can also choose to receive all or no notifications when this presenter is live." = "Benutzerdefinierte Live-Benachrichtigungen basieren darauf, wie oft Sie die Live-Videos dieses Moderators ansehen, und anderen Daten. Sie können auch wählen, ob Sie alle oder keine Benachrichtigungen erhalten möchten, wenn dieser Moderator live ist.";
+"Pannu" = "Pannu";
+"Bitrate" = "Bitrate";
+"0/30" = "0/30";
+"desc" = "Beschreibung";
+"zubair ahmed" = "zubair ahmed";
+"Junaidameen" = "Junaidameen";
+"Video" = "Video";
+"Post" = "Beitrag";
+"Spanish" = "Spanisch";
+"Timer" = "Timer";
+"Videos" = "Videos";
+"Cancel" = "Abbrechen";
+"There is no followers you have so far." = "Sie haben bisher keine Follower.";
+"There is no followings you have so far." = "Sie haben bisher niemanden abonniert.";
+"Suggestion" = "Vorschlag";
+"Likes" = "Gefällt mir";
+"Change photo" = "Foto ändern";
+"Change video" = "Video ändern";
+"About you" = "Über dich";
+"Bio" = "Biografie";
+"received a total of" = "insgesamt erhalten";
+" likes across all videos" = "Gefällt mir in allen Videos";
+"Only Letters, numbers, underscores or periods are allowed." = "Nur Buchstaben, Zahlen, Unterstriche oder Punkte sind erlaubt.";
+"username is too short" = "Benutzername ist zu kurz";
+"this username is not available try a new one" = "Dieser Benutzername ist nicht verfügbar. Versuchen Sie es mit einem neuen.";
+"Usernames can contain only letters, numbers, underscores, and periods. Changing your username will also change your profile link." = "Benutzernamen dürfen nur Buchstaben, Zahlen, Unterstriche und Punkte enthalten. Eine Änderung Ihres Benutzernamens ändert auch Ihren Profillink.";
+"There is no notifications you have so far." = "Sie haben bisher keine Benachrichtigungen.";
+"Profile views" = "Profilaufrufe";
+"People who viewed your profile in the past 30 days will appear here. Only you can see this." = "Personen, die Ihr Profil in den letzten 30 Tagen angesehen haben, werden hier angezeigt. Nur Sie können dies sehen.";
+"Maximum" = "Maximal";
+"600MB" = "600MB";
+"Show Less" = "Weniger anzeigen";
+"Be the first to comment!" = "Seien Sie der Erste, der kommentiert!";
+"comments" = "Kommentare";
+"Reply" = "Antworten";
+"View all reply" = "Alle Antworten anzeigen";
+"view replies" = "Antworten anzeigen";
+"Report" = "Melden";
+"Not Interested" = "Nicht interessiert";
+"Block" = "Blockieren";
+"Send Message" = "Nachricht senden";
+"Unblock" = "Entsperren";
+"View all" = "Alle anzeigen";
+"Message" = "Nachricht";
+"You blocked" = "Sie haben blockiert";
+"You aren't able to see each other's content" = "Sie können den Inhalt des anderen nicht sehen";
+"There is no liked videos so far." = "Es gibt bisher keine gemochten Videos.";
+"There is no videos so far." = "Es gibt bisher keine Videos.";
+"Follow this account to see the content and engagement" = "Folgen Sie diesem Konto, um den Inhalt und die Interaktionen zu sehen";
+"This account is private" = "Dieses Konto ist privat";
+"Personalized LIVE notifications are based on how often you watch this host's LIVE videos and other data. You can aslo choose to receive all or no notifications when this host goes LIVE." = "Personalisierte LIVE-Benachrichtigungen basieren darauf, wie oft Sie die LIVE-Videos dieses Moderators ansehen, und anderen Daten. Sie können auch wählen, ob Sie alle oder keine Benachrichtigungen erhalten möchten, wenn dieser Moderator live ist.";
+
+
+"Pannu" = "Pannu";
+"Bitrate" = "Bitrate";
+"0/30" = "0/30";
+"desc" = "Beschreibung";
+
+
+
+"to set up LIVE notifications" = "LIVE-Benachrichtigungen einrichten";
+"LIVE notification settings" = "LIVE-Benachrichtigungseinstellungen";
+
+"Send Message..." = "Nachricht senden...";
+"Choose Image" = "Bild auswählen";
+"Camera" = "Kamera";
+"Gallery" = "Galerie";
+"Warning" = "Warnung";
+"You don't have camera" = "Sie haben keine Kamera";
+"OK" = "OK";
+"This message is deleted by" = "Diese Nachricht wurde gelöscht von";
+"Deleted a message" = "Eine Nachricht wurde gelöscht";
+
+"Tell us why this content is being reported. All supporting content should be relevant to the ad being reported" = "Teilen Sie uns mit, warum dieser Inhalt gemeldet wird. Alle unterstützenden Inhalte sollten relevant für die gemeldete Anzeige sein";
+"Thanks for reporting" = "Vielen Dank für die Meldung";
+"We value your help to keep Smusix, a safe community. We'll review your report and take action if there is a violation of our Community Guidelines." = "Wir schätzen Ihre Hilfe, um Smusix, eine sichere Gemeinschaft, zu erhalten. Wir werden Ihre Meldung überprüfen und Maßnahmen ergreifen, wenn gegen unsere Community-Richtlinien verstoßen wird.";
+"Thanks for reporting.\nWe value your help to keep Smusix, a safe community.\nWe'll review your report and take action if\nthere is a violation of our Community Guidelines." = "Vielen Dank für die Meldung.\nWir schätzen Ihre Hilfe, um Smusix, eine sichere Gemeinschaft, zu erhalten.\nWir werden Ihre Meldung überprüfen und Maßnahmen ergreifen, wenn\ngegen unsere Community-Richtlinien verstoßen wird.";
+"Report:" = "Meldung:";
+
+"Report Description(Optional)" = "Meldungsbeschreibung (optional)";
+"Submit" = "Absenden";
+
+"Setting and Privacy" = "Einstellungen und Datenschutz";
+"ACCOUNT" = "KONTO";
+"CONTENT & ACTIVITY" = "INHALT & AKTIVITÄT";
+"CACHE DATA" = "CACHE-DATEN";
+"ABOUT" = "ÜBER";
+"LOGIN" = "ANMELDUNG";
+"Manage Account" = "Konto verwalten";
+"Privacy" = "Datenschutz";
+"Request Verification" = "Verifizierung beantragen";
+"Balance" = "Guthaben";
+"Favorites" = "Favoriten";
+"Block User" = "Benutzer blockieren";
+"Qr Code" = "QR-Code";
+"Push Notification" = "Push-Benachrichtigung";
+"Language" = "Sprache";
+"Clear Cache" = "Cache leeren";
+"Terms of Service" = "Nutzungsbedingungen";
+"Privacy Policy" = "Datenschutzrichtlinie";
+"Log out" = "Abmelden";
+"LOGOUT" = "ABMELDEN";
+"Would you like to LOGOUT?" = "Möchten Sie sich ABMELDEN?";
+
+"Account Information" = "Kontoinformationen";
+"Account Control" = "Kontosteuerung";
+"Email" = "E-Mail";
+"Phone Number" = "Telefonnummer";
+"Delete Account" = "Konto löschen";
+
+"Requested Smusix Verification" = "Beantragte Smusix-Verifizierung";
+"To upload your music, you must be verified.
+
+To obtain verification, you must meet certain requirements that will be reviewed by a person. If you meet these requirements, you will be assigned the verification badge, which you can see next to your username.
+
+Submitting the verification request does not guarantee that your account will be verified." = "Um Ihre Musik hochladen zu können, müssen Sie verifiziert werden.
+
+Um die Verifizierung zu erhalten, müssen Sie bestimmte Anforderungen erfüllen, die von einer Person überprüft werden. Wenn Sie diese Anforderungen erfüllen, erhalten Sie das Verifizierungsabzeichen, das Sie neben Ihrem Benutzernamen sehen können.
+
+Das Einreichen des Verifizierungsantrags garantiert nicht, dass Ihr Konto verifiziert wird.";
+
+"Full name" = "Vollständiger Name";
+
+"Apply for Smusix Verification!" = "Beantragen Sie die Smusix-Verifizierung!";
+"Identification or capture of social media.
+
+Identity verification is optional but may increase the likelihood of approval.
+To ensure authenticity, consider providing a photo of your national ID or a screenshot from your profile on social media. Your privacy is important to us and is only used for verification purposes.
+
+Always remember to be cautious with personal information and share only what is necessary and with trusted sources." = "Identifikation oder Erfassung von sozialen Medien.
+
+Die Identitätsprüfung ist optional, kann jedoch die Wahrscheinlichkeit einer Genehmigung erhöhen.
+Um die Authentizität zu gewährleisten, erwägen Sie die Bereitstellung eines Fotos Ihres Personalausweises oder eines Screenshots aus Ihrem Profil in sozialen Medien. Ihre Privatsphäre ist uns wichtig und wird nur für Verifizierungszwecke verwendet.
+
+Denken Sie immer daran, mit persönlichen Informationen vorsichtig zu sein und nur das Notwendige und Vertrauenswürdige weiterzugeben.";
+
+"Choose File" = "Datei auswählen";
+
+
+
+"Coins Balance" = "Münzguthaben";
+"My Wallet" = "Meine Brieftasche";
+
+"Safety" = "Sicherheit";
+"Account Privacy" = "Kontosicherheit";
+"Account Private" = "Konto privat";
+"Influencers Private Accounts , are excluded from list.Your content remain visible only to your friends. Other account cannot follow you." = "Private Konten von Influencern sind von der Liste ausgeschlossen. Ihr Inhalt bleibt nur für Ihre Freunde sichtbar. Andere Konten können Ihnen nicht folgen.";
+"Who can comment on your videos" = "Wer kann Kommentare zu Ihren Videos abgeben";
+"Choose option, if you want anyone can comment on your videos" = "Wählen Sie eine Option, wenn jeder Kommentare zu Ihren Videos abgeben kann";
+"Who can view your videos likes" = "Wer kann Ihre Video-Likes sehen";
+"Choose option, if you want anyone can view your likes on a video" = "Wählen Sie eine Option, wenn jeder Ihre Video-Likes sehen kann";
+"Allow your videos to be downloaded" = "Erlauben Sie das Herunterladen Ihrer Videos";
+"Choose option, if you want anyone can download your videos" = "Wählen Sie eine Option, wenn jeder Ihre Videos herunterladen kann";
+"Who can send You direct Messages" = "Wer kann Ihnen Direktnachrichten senden";
+"Choose option, if you want anyone can send you message directly" = "Wählen Sie eine Option, wenn jeder Ihnen direkt Nachrichten senden kann";
+"Who can duet with your videos" = "Wer kann mit Ihren Videos ein Duett machen";
+"Choose option, if you want anyone can make duet videos with your videos" = "Wählen Sie eine Option, wenn jeder mit Ihren Videos ein Duett machen kann";
+"Select download option" = "Download-Option auswählen";
+
+"Interactions" = "Interaktionen";
+"Likes" = "Likes";
+"Choose if you like to receive push notification on every like" = "Wählen Sie aus, ob Sie eine Push-Benachrichtigung bei jedem Like erhalten möchten";
+"Comments" = "Kommentare";
+"Choose if you like to receive push notification on every comment" = "Wählen Sie aus, ob Sie eine Push-Benachrichtigung bei jedem Kommentar erhalten möchten";
+"New Followers" = "Neue Follower";
+"Choose if you like to receive push notification on every new followers" = "Wählen Sie aus, ob Sie eine Push-Benachrichtigung bei jedem neuen Follower erhalten möchten";
+"Mentions" = "Erwähnungen";
+"Choose if you like to receive push notification when someone mention you his/her post" = "Wählen Sie aus, ob Sie eine Push-Benachrichtigung erhalten möchten, wenn Sie in einem Beitrag erwähnt werden";
+"Messages" = "Nachrichten";
+"Direct Messages" = "Direktnachrichten";
+"Choose if you like to receive push notification When someone send you direct message" = "Wählen Sie aus, ob Sie eine Push-Benachrichtigung erhalten möchten, wenn Ihnen jemand eine direkte Nachricht sendet";
+"Video Updates" = "Video-Updates";
+"Video From Accounts You Follow" = "Videos von Konten, denen Sie folgen";
+"Choose if you like to receive push notification when someone on your following list post new video" = "Wählen Sie aus, ob Sie eine Push-Benachrichtigung erhalten möchten, wenn jemand auf Ihrer Folgeliste ein neues Video veröffentlicht";
+"Blocked Users" = "Blockierte Benutzer";
+"There is no block user so far." = "Bisher gibt es keine blockierten Benutzer.";
+"Share your QR code so others can follow you" = "Teilen Sie Ihren QR-Code, damit andere Ihnen folgen können";
+"Share to" = "Teilen auf";
+"Scan" = "Scannen";
+"My QR code" = "Mein QR-Code";
+
+"Select message option" = "Nachrichtenoption auswählen";
+"Select duet option" = "Duett-Option auswählen";
+"Select like video option" = "Like-Videooption auswählen";
+"Select Comment option" = "Kommentaroption auswählen";
+"Select your account privacy" = "Wählen Sie Ihre Kontosicherheit";
+"Setting Updated" = "Einstellung aktualisiert";
+"Something went wrong" = "Es ist ein Fehler aufgetreten";
+
+"Alert" = "Warnung";
+"Enter your valid email" = "Geben Sie Ihre gültige E-Mail-Adresse ein";
+"Enter 4 digit Code" = "Geben Sie den 4-stelligen Code ein";
+"NEXT" = "WEITER";
+"Resend Code" = "Code erneut senden";
+"Your code was sent to" = "Ihr Code wurde gesendet an";
+
+"Delete Account" = "Konto löschen";
+"CONTINUE" = "WEITER";
+"There is no User with this Keyword." = "Es gibt keinen Benutzer mit diesem Schlüsselwort.";
+"There is no Video with this Keyword." = "Es gibt kein Video mit diesem Schlüsselwort.";
+
+"Log in to" = "Anmelden bei";
+"By signing up,you can confirm to agree our" = "Durch die Registrierung können Sie bestätigen, dass Sie unseren";
+"Use email" = "E-Mail verwenden";
+"Continue with Google" = "Mit Google fortfahren";
+"Sign in with Apple" = "Mit Apple anmelden";
+"Don't have an account?" = "Sie haben kein Konto?";
+"Signup" = "Registrieren";
+"Login" = "Anmelden";
+"Email" = "E-Mail";
+"Forget Password?" = "Passwort vergessen?";
+"Login" = "Anmelden";
+"Phone" = "Telefon";
+
+
+
+"Sign up" = "Registrieren";
+"When's your birthday?(Optional)" = "Wann ist dein Geburtstag? (Optional)";
+"Your birthday won't be shown publicly." = "Dein Geburtstag wird nicht öffentlich angezeigt.";
+"Create Password" = "Passwort erstellen";
+"Use 8-20 character from at least 2 catagories: letters,numbers,special characters" = "Verwenden Sie 8-20 Zeichen aus mindestens 2 Kategorien: Buchstaben, Zahlen, Sonderzeichen";
+"Password" = "Passwort";
+"Username" = "Benutzername";
+"Create username" = "Benutzernamen erstellen";
+"You can always change the usename later" = "Sie können den Benutzernamen später ändern";
+"SIGN UP" = "REGISTRIEREN";
+"Enter your valid username" = "Geben Sie Ihren gültigen Benutzernamen ein";
+
+"Reset" = "Zurücksetzen";
+"Forget password" = "Passwort vergessen";
+"We'll email you a code to reset your password." = "Wir senden Ihnen einen Code per E-Mail, um Ihr Passwort zurückzusetzen.";
+"RESET" = "ZURÜCKSETZEN";
+"LOGIN" = "ANMELDEN";
+
+"Term of Use" = "Nutzungsbedingungen";
+"Agree & Continue" = "Zustimmen und Fortfahren";
+"Favorites" = "Favoriten";
+
+"Who can view this video" = "Wer kann dieses Video ansehen";
+"Public" = "Öffentlich";
+"Private" = "Privat";
+"Anyone on Smusix" = "Jeder auf Smusix";
+"Visible to me only" = "Nur für mich sichtbar";
+"Post" = "Veröffentlichen";
+"Describe your post" = "Beschreiben Sie Ihren Beitrag";
+"Allow comments" = "Kommentare erlauben";
+"What language is this video" = "In welcher Sprache ist dieses Video";
+"What musical genre is your video" = "Welches musikalische Genre hat Ihr Video";
+"Post" = "Veröffentlichen";
+"Dark Mode" = "Dunkler Modus";
+
+"Delete Video" = "Video löschen";
+"Are you sure you want to delete the item ? " = "Sind Sie sicher, dass Sie das Element löschen möchten?";
+"Cancel" = "Abbrechen";
+"Delete" = "Löschen";
+"Try Again" = "Erneut versuchen";
+"Something went Wrong" = "Etwas ist schief gelaufen";
+"Your liked videos" = "Ihre gelikten Videos";
+"There is no liked videos so far." = "Bisher gibt es keine gelikten Videos.";
+"Your private videos" = "Ihre privaten Videos";
+"There is no private videos so far." = "Bisher gibt es keine privaten Videos.";
+
+"Daily Check In" = "Täglicher Check-In";
+"Visit every day and earn upto 50 coins" = "Besuchen Sie täglich und verdienen Sie bis zu 50 Münzen";
+"To reward your favorite artists so that they enter the top 100" = "Belohnen Sie Ihre Lieblingskünstler, damit sie in die Top 100 kommen";
+"COLLECT" = "SAMMELN";
+
+"Daily Check In" = "Täglicher Check-In";
+"CheckIn" = "Einchecken";
+
+"already voted" = "bereits abgestimmt";
+"you don't have golden disc" = "Sie haben keine Goldene Schallplatte";
+"Golden Record Given to Singer" = "Goldene Schallplatte verliehen an Sänger";
+"List to one of your songs" = "Link zu deinem besten Lied";
+"Just now" = "Gerade eben";
+"seconds ago" = "Sekunden vor";
+"A minute ago" = "Vor einer Minute";
+"1 minute ago" = "Vor 1 Minute";
+"minutes ago" = "Minuten vor";
+"An hour ago" = "Vor einer Stunde";
+"1 hour ago" = "Vor 1 Stunde";
+"hours ago" = "Stunden vor";
+"Yesterday" = "Gestern";
+"1 day ago" = "Vor 1 Tag";
+"days ago" = "Tage vor";
+"Last week" = "Letzte Woche";
+"1 week ago" = "Vor 1 Woche";
+"weeks ago" = "Wochen vor";
+"Last month" = "Letzten Monat";
+"1 month ago" = "Vor 1 Monat";
+"months ago" = "Monate vor";
+"Last year" = "Letztes Jahr";
+"1 year ago" = "Vor 1 Jahr";
+"years ago" = "Jahre vor";
+"Back Video is not available" = "Vorheriges Video ist nicht verfügbar";
+"Next Video is not available" = "Nächstes Video ist nicht verfügbar";
+
+"German" = "Deutsch";
+"Italian" = "Italienisch";
+"French" = "Französisch";
+"Portuguese" = "Portugiesisch";
+
+"By signing up,you can confirm to agree our Terms of Use and Privacy Policy" = "Mit der Anmeldung bestätigen Sie, dass Sie unseren Nutzungsbedingungen und Datenschutzbestimmungen zustimmen";

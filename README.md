@@ -143,7 +143,12 @@ docs/
   technical-overview.md
   relaunch-plan.md
   security-notes.md
+source-preview/
+  android/
+  ios/
 ```
+
+The [source-preview](source-preview/) folder contains sanitized Swift, Kotlin, Java, and XML excerpts from the native apps so the public repository shows real mobile engineering work without exposing credentials or private release assets.
 
 ## Why The Full Source Is Private
 
