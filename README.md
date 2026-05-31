@@ -23,6 +23,67 @@ Core product areas:
 - Premium, monetization, wallet, billing, and ad integrations
 - Firebase-backed authentication, storage, messaging, analytics, and crash reporting
 
+## Feature Set
+
+### Discovery Experience
+
+- Vertical swipe feed inspired by the speed and familiarity of short-form video apps
+- Full-song discovery instead of limiting users to short previews
+- Music-first browsing designed to surface artists users had not heard on mainstream platforms
+- Feed filters for language, genre, and subgenre discovery
+- Artist profile pages with music, videos, rankings, and fan interaction
+
+### Internationalization
+
+- Device-language detection on app launch
+- Interface localization across 6 languages: English, Spanish, German, Italian, French, and Portuguese
+- Music discovery flows by language, so users could browse songs in their preferred language
+- Language-specific genre selection during upload and discovery
+
+### Catalog And Taxonomy
+
+- Music catalog scaled to 20,000+ songs
+- Catalog organized around approximately 50 genres and 180 subgenres across supported languages
+- Genre/subgenre selection for uploads so new music could be routed into the right discovery surfaces
+- Weekly trend areas and Top 100 mechanics to keep discovery fresh
+
+### Artist Verification And Uploads
+
+- Artist verification flow before music upload access
+- Verification request screens with identity/context checks
+- Upload workflows for songs, videos, thumbnails, and preview assets
+- Large-video upload support, including user-facing flows for files up to 2 GB
+- Background upload handling so users could continue using the app while media was processed
+
+### Playlists And Weekly Curation
+
+- Auto-updating playlists based on weekly trends
+- Fresh playlist content surfaced every week from the best-performing songs
+- User playlists and favorites
+- Offline downloads for songs and playlists
+- Top 100 and fan ranking mechanics to highlight rising artists
+
+### Premium, Ads, And Artist Promotion
+
+- Premium subscription flows
+- Ad removal for premium users
+- Offline listening and unlimited playlist/song downloads for premium users
+- Artist promotion panel for boosting songs from inside the app
+- In-app campaign setup for paid promotion and extra visibility
+- Artist monetization through Smix coins, digital music sales, and promoted placements
+
+## Product Traction
+
+- Featured in public press as a Spanish app for discovering emerging artists
+- Reported Top 10 ranking in Google Play Music and Top 100 ranking in App Store during its early launch period
+- Google Play listing showed 10K+ installs and positioned Smusix around free music discovery, weekly trend playlists, offline listening, and artist support
+
+Press references:
+
+- [20 Minutos: Existe un 'Spotify español'](https://www.20minutos.es/tecnologia/fabricantes/existe-un-spotify-espanol-es-gratis-te-permite-descubrir-nueva-musica-artistas-emergentes_6242805_0.html)
+- [Mallorca Hora: Smusix, la app española que revoluciona la música emergente](https://mallorcahora.com/noticias/tecnologia-y-videojuegos/2025/09/13/smusix-la-app-espanola-que-revoluciona-la-musica-emergente/)
+- [Smusix website](https://smusix.com/es/)
+
 ## Engineering Focus
 
 This case study focuses on my mobile engineering work across the Smusix iOS and Android codebases.
@@ -34,6 +95,8 @@ Key engineering areas:
 - Product customization, app branding, and release preparation
 - Third-party SDK integration and dependency management
 - Media upload, background processing, playback, and cache-heavy feed performance
+- Multilingual app flows, language-based music discovery, and genre/subgenre routing
+- Artist verification, premium subscriptions, and in-app song promotion flows
 - Store-readiness review for Google Play and App Store requirements
 - Technical triage for relaunch feasibility
 

@@ -7,6 +7,23 @@ Smusix is a native mobile project split into two separate codebases:
 
 The product experience centers on a vertical swipe feed for discovering emerging artists. Each swipe moves the user into another song/video experience, combining music discovery, full-song listening, creator profiles, and social actions.
 
+## Product Feature Architecture
+
+Smusix combined discovery, catalog organization, creator tooling, and monetization in one native mobile experience:
+
+- Device-language detection and localized UI flows
+- 6 interface languages: English, Spanish, German, Italian, French, and Portuguese
+- Language-based music discovery and upload metadata
+- Catalog taxonomy of approximately 50 genres and 180 subgenres
+- 20,000+ song catalog scale
+- Artist verification flow before upload permissions
+- Music/video upload, thumbnail, GIF, and background upload handling
+- Auto-updating weekly playlists based on trends and top-performing songs
+- User playlists, favorites, and offline download flows
+- Premium subscription, ad removal, and premium-only benefits
+- Artist promotion panel for paid song visibility campaigns
+- Top 100, Smix coins, fan support, and monetization mechanics
+
 ## Android Codebase
 
 Observed configuration:
@@ -24,6 +41,7 @@ Major Android areas:
 
 - Authentication and account creation
 - Swipe-based feed and discovery screens
+- App language selection and locale wrapping
 - Video player and media services
 - Upload workers and background jobs
 - Chat, comments, notifications, and sharing
@@ -50,6 +68,7 @@ Major iOS areas:
 - App shell and tab bar navigation
 - Authentication and account flows
 - Media upload/playback
+- Device language detection and localized onboarding/app flows
 - Firebase services
 - Social login/share SDKs
 - Notification content extension
