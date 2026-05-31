@@ -10,6 +10,7 @@ Goal: determine whether the existing apps compile on current toolchains.
 - Run `pod install` and simulator/device build
 - Record all blocking compiler, SDK, and signing issues
 - Verify Firebase projects and app IDs
+- Verify the music discovery feed, full-song playback, video cache behavior, and large-upload paths
 
 Estimated effort: 1 to 3 days.
 
@@ -31,9 +32,11 @@ Estimated effort: 2 to 4 weeks if backend and accounts are still valid.
 Goal: prove that the core user flows still work.
 
 - Login and signup
-- Feed loading
+- Swipe-based discovery feed loading
 - Video playback
+- Full-song playback
 - Video upload
+- Large video upload path below 2 GB
 - Music/song screens
 - Profile editing
 - Comments, likes, sharing
