@@ -23,6 +23,74 @@ Core product areas:
 - Premium, monetization, wallet, billing, and ad integrations
 - Firebase-backed authentication, storage, messaging, analytics, and crash reporting
 
+## App Experience Walkthrough
+
+Smusix was built to make emerging-music discovery feel visual, fast, and social. The app story starts with a clear promise: listen to future hits before everybody else, then move through onboarding, language selection, genre exploration, full-song playback, artist pages, rankings, rewards, and monetization.
+
+<p align="center">
+  <img src="assets/screenshots/story/15-product-hero-collage.png" alt="Smusix product screens collage" width="760">
+</p>
+
+### 1. Sign in and choose a music world
+
+The first flow keeps onboarding simple: users can sign in with Google or email, then choose the language of the music they want to discover. This was important because Smusix was not only translated as an interface; its discovery experience was also organized around language-specific catalogs.
+
+| Welcome and authentication | Language-based discovery |
+| --- | --- |
+| <img src="assets/screenshots/story/01-welcome-login.png" alt="Smusix welcome and login screen" width="280"> | <img src="assets/screenshots/story/07-language-selection.png" alt="Smusix language selection screen" width="280"> |
+
+### 2. Explore genres, subgenres, and weekly discovery surfaces
+
+After onboarding, discovery becomes more specific. Users can browse broad genres, jump into subgenres, and explore weekly trend areas. This taxonomy helped route listeners into the right scenes while still keeping the experience visual and swipe-friendly.
+
+| Genre picker | Weekly trends | Weekly recommendations |
+| --- | --- | --- |
+| <img src="assets/screenshots/story/03-genre-exploration-pop.png" alt="Smusix genre exploration screen" width="240"> | <img src="assets/screenshots/story/04-search-weekly-trends.png" alt="Smusix weekly trends screen" width="240"> | <img src="assets/screenshots/story/05-search-weekly-trends-variant.png" alt="Smusix weekly trends alternate screen" width="240"> |
+
+| Subgenre rows and moods |
+| --- |
+| <img src="assets/screenshots/story/06-subgenre-discovery-rows.png" alt="Smusix subgenre discovery rows" width="280"> |
+
+### 3. Listen through a full-song discovery feed
+
+The core product loop is the player: a full-song, video-first feed where users can listen, watch, follow artists, comment, like, share, collect songs, and keep moving through new music without leaving the discovery context.
+
+| Full-song discovery player |
+| --- |
+| <img src="assets/screenshots/story/02-player-discovery-feed.png" alt="Smusix full song discovery player" width="280"> |
+
+### 4. Build artist identity around profiles, music, and fans
+
+Artist pages were designed to feel like a music-native profile: a large visual header, monthly listeners, follow action, private club access, best-fan mechanics, and a grid of songs. The profile format gave each artist a place to grow beyond a single track.
+
+| Artist profile | Artist profile | Artist profile |
+| --- | --- | --- |
+| <img src="assets/screenshots/story/08-artist-profile-abbie-janson.png" alt="Smusix artist profile for Abbie Janson" width="240"> | <img src="assets/screenshots/story/10-artist-profile-caldo.png" alt="Smusix artist profile for Caldo" width="240"> | <img src="assets/screenshots/story/11-artist-profile-dia.png" alt="Smusix artist profile for Dia" width="240"> |
+
+### 5. Turn discovery into rankings, collections, and retention loops
+
+Smusix connected listening behavior with weekly Top 100 rankings, personal libraries, favorites, offline music, playlists, streaks, rewards, and fan status. These loops were meant to give listeners reasons to return and give artists visible signals of support.
+
+| Weekly Top 100 | User library | Weekly rewards |
+| --- | --- | --- |
+| <img src="assets/screenshots/story/09-top-100-ranking.png" alt="Smusix weekly Top 100 ranking screen" width="240"> | <img src="assets/screenshots/story/16-user-library-profile.png" alt="Smusix user library and profile screen" width="240"> | <img src="assets/screenshots/story/13-smix-weekly-rewards.png" alt="Smusix weekly rewards and streak screen" width="240"> |
+
+### 6. Support artists with Smix coins
+
+The in-app wallet added a monetization layer around Smix coins. Users could buy coin packs and use them to support favorite artists, help songs climb the Top 100, and show early-fan status inside the product.
+
+| Smix wallet |
+| --- |
+| <img src="assets/screenshots/story/14-smix-wallet.png" alt="Smusix Smix coin wallet screen" width="280"> |
+
+### 7. Public launch traction
+
+The product reached visible marketplace traction during launch, including a Top 10 position in Google Play's music and audio rankings in Spain. That ranking validated the core idea: a mobile-first discovery app for new music and emerging artists could compete for attention next to established audio platforms.
+
+| Google Play ranking |
+| --- |
+| <img src="assets/screenshots/story/12-google-play-top-10.png" alt="Smusix Top 10 Google Play music and audio ranking" width="280"> |
+
 ## Feature Set
 
 ### Discovery Experience
@@ -139,6 +207,7 @@ assets/
   app-brand.png
   logo-estirado.jpg
   logo-redondo.png
+  screenshots/story/
 docs/
   technical-overview.md
   relaunch-plan.md
